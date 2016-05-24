@@ -1,2 +1,2 @@
-# Learn How to use Git both in local & github
-dff
+# Learn How to use Git
+Discription: Note & Practice for using git both in local & remote personally.
