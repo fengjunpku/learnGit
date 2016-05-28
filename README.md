@@ -4,3 +4,6 @@ Discription: Note & Practice for using git both in local & remote personally.
 20160527
 
 20160528
+
+#othet rievse
+other revise
